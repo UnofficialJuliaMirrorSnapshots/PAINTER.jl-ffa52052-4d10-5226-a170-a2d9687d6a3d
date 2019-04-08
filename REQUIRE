@@ -1,0 +1,7 @@
+julia 0.5
+NFFT
+Wavelets
+OIFITS
+JLD
+OptimPack 0.3
+SpecialFunctions
